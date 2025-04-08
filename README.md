@@ -74,22 +74,5 @@ Ajanın eğitimi sırasında kullanılan hiperparametreler aşağıdaki gibidir:
 | Öğrenme Oranı (LR)        | 0.001   |
 | Epoch Sayısı              | 3       |
 ---------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>![images](https://github.com/user-attachments/assets/fee7aeff-05c7-4042-a3ae-fc4a763f0dee)
 <br>
